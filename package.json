@@ -2,6 +2,7 @@
   "name": "rock-paper-scissors",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dp2005dp.github.io/rockPaperScissors/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",

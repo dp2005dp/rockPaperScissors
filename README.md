@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+🪨 Rock Paper Scissors Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fun and interactive Rock Paper Scissors Game built using React.js and Styled Components.
+Challenge yourself by playing against the computer — see who wins!
 
-## Available Scripts
+🖼️ Preview
 
-In the project directory, you can run:
+<img width="616" height="793" alt="image" src="https://github.com/user-attachments/assets/e4d37780-3137-4d87-968d-a19f7bbefbb0" />
 
-### `npm start`
+🧠 Game Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Simple and interactive gameplay
+✅ Play against the computer with random moves
+✅ Real-time score tracking
+✅ Fully responsive design for all devices
+✅ Styled using Styled Components
+✅ Includes “Rules” button to guide new players
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠️ Technologies Used
+⚛️ React.js
+💅 Styled Components
+🎨 CSS Flexbox for layout
 
-### `npm test`
+🧩 Game Rules
+Rock beats Scissors ✊✂️
+Scissors beats Paper ✂️📄
+Paper beats Rock 📄✊
+The game automatically updates your score after each round.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<img width="662" height="673" alt="image" src="https://github.com/user-attachments/assets/4f72a873-2758-4eb5-929d-a1cd188e7140" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📱 Responsive Design
+The game layout automatically adapts to mobile, tablet, and desktop screens for a smooth experience.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🧑‍💻 Developed By
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Durgaprasad M E
+🚀Passionate React Developer #Happy Coding ✨🎮
